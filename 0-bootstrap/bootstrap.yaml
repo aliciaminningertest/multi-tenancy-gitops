@@ -10,7 +10,7 @@ spec:
   project: default
   source:
     path: 0-bootstrap/single-cluster
-    repoURL: https://github.com/alicia-minninger-ibm/multi-tenancy-gitops.git
+    repoURL: https://github.com/aliciaminningertest/multi-tenancy-gitops.git
     targetRevision: master
   syncPolicy:
     automated:
